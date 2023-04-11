@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.github.funicornframework</groupId>
     <artifactId>funicorn-framework-dependencies</artifactId>
-    <version>1.0.2</version>
+    <version>1.1.0</version>
     <name>funicorn-framework-dependencies</name>
     <description>funicorn framework dependencies</description>
     <url>https://github.com/funicornframework/funicorn-dependencies</url>
@@ -25,72 +25,67 @@
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-logger-core</artifactId>
-                <version>1.0.0</version>
-            </dependency>
-            <dependency>
-                <groupId>io.github.funicornframework</groupId>
-                <artifactId>funicorn-logger-module</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-boot-starter</artifactId>
-                <version>1.0.1</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-cloud-starter</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-security</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-amqp</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-aws</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-base</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-context</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-datasource</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-mqtt</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-netty</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-redisson</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-xxljob</artifactId>
-                <version>1.0.0</version>
+                <version>1.1.0</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
