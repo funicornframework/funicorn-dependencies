@@ -24,8 +24,13 @@
         <dependencies>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
-                <artifactId>funicorn-logger-core</artifactId>
+                <artifactId>funicorn-common-openfeign</artifactId>
                 <version>1.1.0</version>
+            </dependency>
+            <dependency>
+                <groupId>io.github.funicornframework</groupId>
+                <artifactId>funicorn-logger-core</artifactId>
+                <version>1.2.0</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
@@ -75,7 +80,7 @@
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
                 <artifactId>funicorn-common-netty</artifactId>
-                <version>1.1.0</version>
+                <version>1.1.1</version>
             </dependency>
             <dependency>
                 <groupId>io.github.funicornframework</groupId>
