@@ -63,8 +63,8 @@ yml格式如下:
 * amazon:
     + enable: true
     + aws:
-        - access-key-id: LTAIdG2jVWX53La2
-        - access-key-secret: Bu5y8r2M7BT6MOpJEWOBUKoOZNTTXy
+        - access-key-id: accessKeyId
+        - access-key-secret: accessKeySecret
     + s3:
         - default-bucket: bucketName
         - endpoint: http://endpoint.com
